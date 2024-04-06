@@ -1,0 +1,12 @@
+.searchInput{
+    height: 20vh;
+    text-align: center;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.searchInputInner{
+    margin-top: 20;
+    width: 60%;
+}
